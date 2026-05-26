@@ -1,0 +1,1 @@
+export default function Businesses(){return <div className="space-y-4"><h1 className="text-2xl font-semibold">Businesses</h1><button className="bg-white text-zinc-900 rounded px-3 py-2">Add Business</button><p className="text-zinc-500">No businesses yet. Create your first business to organize documents by entity.</p></div>}
